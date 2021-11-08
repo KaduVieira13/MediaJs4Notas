@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.item {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-self: center;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+input {
+    border-radius: 10px;
+    
+}
